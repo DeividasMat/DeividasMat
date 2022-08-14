@@ -77,4 +77,10 @@ other_positions:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" alt="pytorch" width="45" height="45"/>
 </p>
 
+<h2> 🚀 &nbsp;Github stats</h2>
 
+![DeividasMat GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividasMat&show_icons=true&theme=radical)
+
+<p align="center">
+![Snake animation](https://github.com/DeividasMat/DeividasMat/blob/output/github-contribution-grid-snake.svg)
+</p>
